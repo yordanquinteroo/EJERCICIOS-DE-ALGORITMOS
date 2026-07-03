@@ -1,9 +1,9 @@
 var tienda = {
-    descuento: 0.10
+    descuento: 0.10// 10% de descuento
 };
 var cliente = {
     nombre: "Yordan",
-    compras: 100000
+    compras: 150000
 };
 cliente.descuento = tienda.descuento * cliente.compras;
 
