@@ -4,4 +4,4 @@ var nota3 = 6;
 
 var definitiva = (nota1 * 0.20 + nota2 * 0.30 + nota3 * 0.50);
 
-console.log("la nota definitiva es: " + definitiva);
+console.log
